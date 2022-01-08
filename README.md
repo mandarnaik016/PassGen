@@ -1,4 +1,4 @@
-<p align="center"><a href="data/passgen.png"><img src="data/passgen.png" alt="PassGen" height="50" /></a></p>
+<p align="center"><a href="data/passgen.png"><img src="data/passgen.png" alt="PassGen" height="150" /></a></p>
 <h1 align="center">PassGen</h1>
 <p align="center">dice ware implementation for generating password using python!.</p>
 <p align="center">
